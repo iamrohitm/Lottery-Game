@@ -1,7 +1,3 @@
-Here's an improved and visually appealing version of your README file, including links for LinkedIn and GitHub:
-
----
-
 # 🎲 Lottery Game Web App  
 
 A simple and engaging **Lottery Game Web App** built with **React.js**. This app generates dynamic lottery tickets and determines winners using a customizable function. Easily tweak the logic to set your own winning conditions!
@@ -73,7 +69,7 @@ Contributions are welcome!
 ## 🔗 Connect  
 
 - **GitHub:** [Rohit Mohite](https://github.com/iamrohitm)  
-- **LinkedIn:** [Rohit Mohite](https://www.linkedin.com/in/rohit-mohite)  
+- **LinkedIn:** [Rohit Mohite](https://www.linkedin.com/in/rohit-mohite-832792232/)  
 
 ---
 
