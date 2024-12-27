@@ -11,12 +11,7 @@ Welcome to the **Lottery Game**, an interactive and fun application where player
 ## Technologies Used 🛠️
 - **Frontend**: React.js
 - **Styling**: CSS / TailwindCSS
-- **State Management**: React State / Context API
-
-## How to Run the Project 🚀
-
-### Prerequisites:
-- Install [Node.js](https://nodejs.org/).
+- **State Management**: React State 
 
 ### Steps to Run:
 1. Clone the repository:
@@ -83,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📧
 If you have any questions or suggestions, feel free to contact us:
-- **Email**: rohitmohite.in@gmail.com.com
+- **Email**: rohitmohite.in@gmail.com
 - **GitHub**: [iamrohitm](https://github.com/iamrohitm)
 
 Enjoy the Lottery Game and may luck be on your side! 🍀
